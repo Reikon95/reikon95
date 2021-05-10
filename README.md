@@ -1,8 +1,16 @@
 ### Hi there 👋
 
-I'm primarily a Javascript developer who enjoys writing code to provide great user experience at scale. I'm a big fan of both React and Angular, and use both day to day.
+I'm primarily a Javascript/Typescript/ developer who enjoys writing code to provide great user experience at scale. I'm a big fan of both React and Angular, and use both day to day. I used to be a technical recruiter so if you need career advice just give me a shout.
 
 I'm looking to get more involved in the open source community, so if I can help with anything, please reach out!
+
+- 🔭 I’m currently working on ...
+
+A new marketing platform to harness the power of a focused niche audience. I'm building it with Typescript (React and NodeJS), AWS and a little of Python.
+
+- 🌱 I’m currently learning ...
+
+NodeJS, Python, AWS and exploring Rust.
 
 <!--
 **Reikon95/reikon95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
