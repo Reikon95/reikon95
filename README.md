@@ -6,11 +6,21 @@ I'm looking to get more involved in the open source community, so if I can help 
 
 - 🔭 I’m currently working on ...
 
-A new marketing platform to harness the power of a focused niche audience. I'm building it with Typescript (React and NodeJS), AWS and a little of Python.
+A new marketing platform to harness the power of a focused niche audience. I'm building it with Typescript (React and NodeJS), AWS and a dash of Python.
+
+I'm also building a youtube channel for technical career advice. There's loads of resources out there for technical help, but not much for careers. I figured considering my previous career, I'd be in a pretty unique place to help.
 
 - 🌱 I’m currently learning ...
 
-NodeJS, Python, AWS and exploring Rust.
+NodeJS, Python, AWS and exploring Rust. I'm also learning how to learn, which is a bit of a tricky concept in itself. 
+
+- 🤔 I’m looking for help with ...
+
+DevOps and Backend work for me and my co-founder's SaaS project.
+
+- ⚡ Fun fact: ...
+I haven't missed a Scotland rugby match in ten years, including getting up at 3am to watch us lose to Fiji and having to use holiday to watch morning
+games during the Japan world cup. If you don't know much about rugby, just know that watching Scotland teaches... perseverence.
 
 <!--
 **Reikon95/reikon95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
