@@ -20,7 +20,7 @@ DevOps and Backend work for me and my co-founder's SaaS project.
 
 - ⚡ Fun fact: ...
 I haven't missed a Scotland rugby match in ten years, including getting up at 3am to watch us lose to Fiji and having to use holiday to watch morning
-games during the Japan world cup. If you don't know much about rugby, just know that watching Scotland teaches... perseverence.
+games during the Japan world cup. If you don't know much about rugby, just know that watching Scotland teaches... perseverance.
 
 <!--
 **Reikon95/reikon95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
