@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm primarily a Javascript/Typescript/ developer who enjoys writing code to provide great user experience at scale. I'm a big fan of both React and Angular, and use both day to day. I used to be a technical recruiter so if you need career advice just give me a shout.
+I'm primarily a Javascript/Typescript developer who enjoys writing code to provide great user experience at scale. I'm a big fan of both React and Angular, and use both day to day. I used to be a technical recruiter so if you need career advice just give me a shout.
 
 I'm looking to get more involved in the open source community, so if I can help with anything, please reach out!
 
@@ -18,7 +18,11 @@ NodeJS, Python, AWS and exploring Rust. I'm also learning how to learn, which is
 
 DevOps and Backend work for me and my co-founder's SaaS project.
 
+- 💬 Ask me about ...
+Discoverr. If you know you know...
+
 - ⚡ Fun fact: ...
+
 I haven't missed a Scotland rugby match in ten years, including getting up at 3am to watch us lose to Fiji and having to use holiday to watch morning
 games during the Japan world cup. If you don't know much about rugby, just know that watching Scotland teaches... perseverance.
 
