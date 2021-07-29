@@ -10,17 +10,11 @@ A new marketing platform to harness the power of a focused niche audience. I'm b
 
 I'm also building a youtube channel for technical career advice. There's loads of resources out there for technical help, but not much for careers. I figured considering my previous career, I'd be in a pretty unique place to help.
 
+<a href="https://www.youtube.com/channel/UC-m9HBSgx5drU4cqfuNg5vA" target="_blank">Check it out here</a>
+
 - 🌱 I’m currently learning ...
 
-NodeJS, Python, AWS and exploring Rust. I'm also learning how to learn, which is a bit of a tricky concept in itself. 
-
-- 🤔 I’m looking for help with ...
-
-DevOps and Backend work for me and my co-founder's SaaS project.
-
-- 💬 Ask me about ...
-
-Discoverr. If you know you know...
+React Native, NodeJS, Devops and CI/CD Proccesses.
 
 - ⚡ Fun fact: ...
 
