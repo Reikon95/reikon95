@@ -1,12 +1,18 @@
 ### Hi there 👋
 
-I'm primarily a Javascript/Typescript developer who enjoys writing code to provide great user experience at scale. I'm a big fan of both React and Angular, and use both day to day. I used to be a technical recruiter so if you need career advice just give me a shout.
+I'm primarily a Javascript/Typescript developer who enjoys writing code to provide great user experience at scale. 
+
+I used to be a technical recruiter so if you need career advice just give me a shout.
 
 I'm looking to get more involved in the open source community, so if I can help with anything, please reach out!
 
+- 🌍 I live in ...
+
+Edinburgh, Scotland. Absolutely love this country and I am passionate about promoting the tech scene here.
+
 - 🔭 I’m currently working on ...
 
-A new marketing platform to harness the power of a focused niche audience. I'm building it with Typescript (React and NodeJS), AWS and a dash of Python.
+A proof of concept React Native app. More to be revealed...
 
 I'm also building a youtube channel for technical career advice. There's loads of resources out there for technical help, but not much for careers. I figured considering my previous career, I'd be in a pretty unique place to help.
 
