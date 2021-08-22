@@ -12,15 +12,17 @@ Edinburgh, Scotland. Absolutely love this country and I am passionate about prom
 
 - 🔭 I’m currently working on ...
 
-A proof of concept React Native app. More to be revealed...
-
-I'm also building a youtube channel for technical career advice. There's loads of resources out there for technical help, but not much for careers. I figured considering my previous career, I'd be in a pretty unique place to help.
+THE CODER CAREER! A long term project to help people break into, level up and innovate in the tech industry.
 
 <a href="https://www.youtube.com/channel/UC-m9HBSgx5drU4cqfuNg5vA" target="_blank">Check it out here</a>
 
 - 🌱 I’m currently learning ...
 
 React Native, NodeJS, Devops and CI/CD Proccesses.
+
+- 📫 How to reach me: ...
+
+If it's related to TCC - thecodercareer@gmail.com. For anything else, cameronblackwood.developer@gmail.com.
 
 - ⚡ Fun fact: ...
 
