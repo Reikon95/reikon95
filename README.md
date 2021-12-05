@@ -10,9 +10,9 @@ Edinburgh, Scotland. Absolutely love this country and I am passionate about prom
 
 - 🔭 I’m currently working on ...
 
-THE CODER CAREER! A long term project to help people break into, level up and innovate in the tech industry.
+THE CODER CAREER! A long term project to help people break into, level up and innovate in the tech industry. My vision is that by 2025, if you want a job in tech, you can find it through our network with little to no friciton. 
 
-<a href="https://www.youtube.com/channel/UC-m9HBSgx5drU4cqfuNg5vA" target="_blank">Check it out here</a>
+<a href="https://www.linktr.ee/thecodercareer" target="_blank">Check it out here</a>
 
 - 🌱 I’m currently learning ...
 
