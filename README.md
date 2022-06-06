@@ -22,6 +22,10 @@ React Native, NodeJS, Devops and CI/CD Proccesses.
 
 If it's related to TCC - thecodercareer@gmail.com. For anything else, cameronblackwood.developer@gmail.com.
 
+- When I'm not coding: ...
+
+Generally found playing rugby, gaming, or playing with my kitten, Earl. I'm also known to murder many popular 90s rock songs on the guitar.
+
 - ⚡ Fun fact: ...
 
 I haven't missed a Scotland rugby match in ten years, including getting up at 3am to watch us lose to Fiji and having to use holiday to watch morning
