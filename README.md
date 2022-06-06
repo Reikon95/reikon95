@@ -10,7 +10,7 @@ Edinburgh, Scotland. Absolutely love this country and I am passionate about prom
 
 - 🔭 I’m currently working on ...
 
-THE CODER CAREER! A long term project to help people break into, level up and innovate in the tech industry. My vision is that by 2025, if you want a job in tech, you can find it through our network with little to no friciton. 
+THE CODER CAREER! A long term project with my co-founder Colin Riddell to help people break into, level up and innovate in the tech industry. Our vision is that by 2025, if you want a job in tech, you can find it through our network with little to no friciton. Potentially looking for a marketing person to help me and Colin out, so please shout if that's up your street.
 
 <a href="https://www.linktr.ee/thecodercareer" target="_blank">Check it out here</a>
 
@@ -25,10 +25,7 @@ If it's related to TCC - thecodercareer@gmail.com. For anything else, cameronbla
 - ⚡ Fun fact: ...
 
 I haven't missed a Scotland rugby match in ten years, including getting up at 3am to watch us lose to Fiji and having to use holiday to watch morning
-games during the Japan world cup. If you don't know much about rugby, just know that watching Scotland teaches... perseverance.
+games during the Japan world cup. If you don't know much about rugby, just know that watching Scotland is... character building.
 
-<!--
-**Reikon95/reikon95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
