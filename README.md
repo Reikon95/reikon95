@@ -10,9 +10,7 @@ Edinburgh, Scotland. Absolutely love this country and I am passionate about prom
 
 - 🔭 I’m currently working on ...
 
-THE CODER CAREER! A long term project with my co-founder Colin Riddell to help people break into, level up and innovate in the tech industry. Our vision is that by 2025, we'll be the "survival guide" for all developers.
-
-<a href="https://thecodercareer.com" target="_blank">Check it out here</a>
+Stuff
 
 - 🌱 I’m currently learning ...
 
