@@ -14,7 +14,7 @@ Stuff
 
 - 🌱 I’m currently learning ...
 
-React Native, NodeJS, Devops and CI/CD Proccesses.
+Python and Devops
 
 - 📫 How to reach me: ...
 
