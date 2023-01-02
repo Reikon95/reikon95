@@ -10,7 +10,7 @@ Edinburgh, Scotland. Absolutely love this country and I am passionate about prom
 
 - 🔭 I’m currently working on ...
 
-Stuff
+Various indie hacking products and a course for tech recruiters to learn about the tech they recruit for!
 
 - 🌱 I’m currently learning ...
 
