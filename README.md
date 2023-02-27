@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm primarily a Javascript/Typescript developer who enjoys writing code to provide great user experience at scale. 
+I'm primarily a full stack developer who enjoys writing code to provide great user experience at scale. 
 
-I used to be a technical recruiter so if you need career advice just give me a shout.
+I used to be a technical recruiter before deciding to retrain!
 
 - 🌍 I live in ...
 
@@ -10,7 +10,7 @@ Edinburgh, Scotland. Absolutely love this country and I am passionate about prom
 
 - 🔭 I’m currently working on ...
 
-Various indie hacking products and a course for tech recruiters to learn about the tech they recruit for!
+My job search app PinPoint, and content creation.
 
 - 🌱 I’m currently learning ...
 
@@ -18,7 +18,7 @@ Python and Devops
 
 - 📫 How to reach me: ...
 
-If it's related to TCC - cameron@thecodercareer.com. For anything else, cameronblackwood.developer@gmail.com.
+If it's related to The Coder Career Podcast - cameron@thecodercareer.com. For anything else (including other content), cameronblackwood.developer@gmail.com.
 
 - When I'm not coding: ...
 
