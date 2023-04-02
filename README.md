@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm primarily a full stack developer who enjoys writing code to provide great user experience at scale. 
+I'm frontend focused full stack developer who enjoys writing code to provide great user experience at scale. 
 
 I used to be a technical recruiter before deciding to retrain!
 
@@ -10,11 +10,11 @@ Edinburgh, Scotland. Absolutely love this country and I am passionate about prom
 
 - 🔭 I’m currently working on ...
 
-My job search app PinPoint, and content creation.
+A new career discovery platform called StartupGradJobs, and content creation around technology careers.
 
 - 🌱 I’m currently learning ...
 
-Python and Devops
+Everything I can about infrastructure
 
 - 📫 How to reach me: ...
 
@@ -22,6 +22,6 @@ If it's related to The Coder Career Podcast - cameron@thecodercareer.com. For an
 
 - When I'm not coding: ...
 
-Generally found playing rugby, gaming, or playing with my kitten, Earl. I'm also known to murder many popular 90s rock songs on the guitar.
+Generally found playing rugby, gaming, or playing with my cat, Earl. I'm also known to murder many popular 90s rock songs on the guitar.
 
 
