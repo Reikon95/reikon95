@@ -18,7 +18,7 @@ Everything I can about infrastructure
 
 - 📫 How to reach me: ...
 
-If it's related to The Coder Career Podcast - cameron@thecodercareer.com. For anything else (including other content), cameronblackwood.developer@gmail.com.
+cameronblackwood.developer@gmail.com
 
 - When I'm not coding: ...
 
