@@ -15,7 +15,7 @@ Trying to document everything on youtube and tiktok!
 
 - 🌱 I’m currently learning ...
 
-Varies week to week, but in a nutshell - cloud tech, getting up to expert level in nextjs, and entrepeneurship in general.
+Varies week to week, but in a nutshell - cloud tech, getting up to expert level in nextjs, becoming acceptable at rust, and entrepeneurship in general.
 
 - 📫 How to reach me: ...
 
