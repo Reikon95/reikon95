@@ -8,8 +8,6 @@ Edinburgh, Scotland. Absolutely love this country and I am passionate about prom
 
 - 🔭 I’m currently working on ...
 
-Uni-Hire (CTO) - The next generation graduate hiring platform
-
 MicroInfluencer (Founder) - Connecting niche voices with ambitious brands
 
 Trying to document everything on youtube and tiktok!
