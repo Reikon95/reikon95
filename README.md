@@ -8,9 +8,9 @@ Edinburgh, Scotland. Absolutely love this country and I am passionate about prom
 
 - 🔭 I’m currently working on ...
 
-MicroInfluencer  - Connecting niche voices with ambitious brands
+MicroInfluencer - Helping brands find the greatest niche creators on social media
 
-StadiaRank - Directory and reviews of stadiums
+StadiaRank - Directory and reviews of the world's greatest sports venues 
 
 Trying to document everything on youtube and tiktok!
 
