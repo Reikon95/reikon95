@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Trading Cards Demo](https://github.com/user-attachments/assets/77bb7e70-2722-4f5b-827e-e7fd18275a4a)
+
+
 I'm frontend focused full stack developer who enjoys writing code to provide great user experience at scale. Wrote my first line of code in 2017 and never looked back.
 
 - 🌍 I live in ...
