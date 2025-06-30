@@ -11,7 +11,7 @@ Edinburgh, Scotland. Absolutely love this country and I am passionate about prom
 
 [Microinfluencer](https://microinfluencer.club/) - Helping brands find the greatest niche creators on social media
 
-StadiaRank - Directory and reviews of the world's greatest sports venues 
+[StadiaRank](https://www.stadiarank.com/) - Directory and reviews of the world's greatest sports venues 
 
 Trying to document everything on youtube and tiktok!
 
