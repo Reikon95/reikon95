@@ -1,24 +1,37 @@
-### Hi there 👋
+# Hey there, I'm Cameron 👋
 
-I'm frontend focused full stack developer who enjoys writing code to provide great user experience at scale. Wrote my first line of code in 2017 and never looked back.
+I'm a **frontend-focused full stack developer** who loves building products that scale and make life easier (and more fun!) for real people.  
+Wrote my first line of code in **2017**, never looked back!
 
-- 🌍 I live in ...
+---
 
-Edinburgh, Scotland. Absolutely love this country and I am passionate about promoting the tech scene here. 
+## 👨‍💻 What I’m Doing Right Now
 
-- 🔭 I’m currently working on ...
+- 💼 **Support Engineer @ [Supabase](https://supabase.com/)** - Helping builders around the world scale to millions!
+- 🌱 Building cool side projects:
+  - [**Microinfluencer**](https://microinfluencer.club/) - AI-powered Data Anlaytics platform helping brands discover the best niche creators on social media
+  - [**StadiaRank**](https://www.stadiarank.com/) - A community-driven directory + reviews of the world’s greatest sports venues
+- 🎬 Documenting it all on **[YouTube](https://youtube.com)** & **TikTok** 
 
-[Microinfluencer](https://microinfluencer.club/) - Helping brands find the greatest niche creators on social media
+---
 
-[StadiaRank](https://www.stadiarank.com/) - Directory and reviews of the world's greatest sports venues 
+## 🌍 A Bit About Me
 
-Trying to document everything on youtube and tiktok!
+- Based in **Edinburgh, Scotland**. You'll often find me speaking at local meetups!
+- When I’m not coding:
+  - 🏉 You’ll find me playing rugby for the mighty [Edinburgh Northern RFC](https://www.enrfc.co.uk/)  
+  - 🐈 Hanging out at home with my cat Earl Grey.
+  - 🏌️ Triple bogeying my way round 18 holes  
 
-- 📫 How to reach me: ...
+---
 
-cameronblackwood.developer@gmail.com
+## 📬 Let’s Connect  
 
-- When I'm not coding: ...
+If you want to reach out about anything, feel free to contact me on any of the below:
 
-Watching rugby or playing the game myself for the mighty [Edinburgh Northern RFC](https://www.enrfc.co.uk/). Hanging out with my cat, Earl. 
+- 📧 **Email:** cameronblackwood.developer@gmail.com  
+- 🐦 [**Twitter/X:**](https://x.com/CamBlackwood95)
+- 💼 [**LinkedIn:**](https://www.linkedin.com/in/cameron-blackwood/)
+
+
 
