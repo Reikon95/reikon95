@@ -30,8 +30,8 @@ Wrote my first line of code in **2017**, never looked back!
 If you want to reach out about anything, feel free to contact me on any of the below:
 
 - 📧 **Email:** cameronblackwood.developer@gmail.com  
-- 🐦 [**Twitter/X:**](https://x.com/CamBlackwood95)
-- 💼 [**LinkedIn:**](https://www.linkedin.com/in/cameron-blackwood/)
+- 🐦 [**Twitter/X**](https://x.com/CamBlackwood95)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/cameron-blackwood/)
 
 
 
