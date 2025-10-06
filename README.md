@@ -1,5 +1,9 @@
 # Hey there, I'm Cameron 👋
 
+Or Cammy, or Cam. I don't really mind tbh.
+
+---
+
 I'm a **frontend-focused full stack developer** who loves building products that scale and make life easier (and more fun!) for real people.  
 Wrote my first line of code in **2017**, never looked back!
 
