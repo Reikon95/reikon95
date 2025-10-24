@@ -15,7 +15,7 @@ Wrote my first line of code in **2017**, never looked back!
 - 🌱 Building cool side projects:
   - [**Microinfluencer**](https://microinfluencer.club/) - AI-powered Data Anlaytics platform helping brands discover the best niche creators on social media
   - [**StadiaRank**](https://www.stadiarank.com/) - A community-driven directory + reviews of the world’s greatest sports venues
-- 🎬 Documenting it all on **[YouTube](https://youtube.com)** & **[TikTok]**(https://tiktok.com/@cameronblackwoodcode)
+- 🎬 Documenting it all on **[YouTube](https://youtube.com)** & **[TikTok](https://tiktok.com/@cameronblackwoodcode)**
 
 ---
 
