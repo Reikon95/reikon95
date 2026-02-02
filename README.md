@@ -14,7 +14,7 @@ Wrote my first line of code in **2017**, never looked back!
 - 💼 **Support Engineer @ [Supabase](https://supabase.com/)** - Helping builders around the world scale to millions!
 - 🌱 Building cool side projects:
   - [**Microinfluencer**](https://microinfluencer.club/) - AI-powered Data Anlaytics platform helping brands discover the best niche creators on social media
-  - [**StadiaRank**](https://www.stadiarank.com/) - A community-driven directory + reviews of the world’s greatest sports venues
+  - Another exciting project that I haven't named yet!
 - 🎬 Documenting it all on **[YouTube](https://youtube.com)** & **[TikTok](https://tiktok.com/@cameronblackwoodcode)**
 
 ---
