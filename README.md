@@ -1,7 +1,6 @@
 # Hey there, I'm Cameron 👋
 
-Or Cammy, or Cam. I don't really mind tbh.
-
+aka Cammy or Cam
 ---
 
 I'm a **frontend-focused full stack developer** who loves building products that scale and make life easier (and more fun!) for real people.  
@@ -14,7 +13,7 @@ Wrote my first line of code in **2017**, never looked back!
 - 💼 **Support Engineer @ [Supabase](https://supabase.com/)** - Helping builders around the world scale to millions!
 - 🌱 Building cool side projects:
   - [**Microinfluencer**](https://microinfluencer.club/) - AI-powered Data Anlaytics platform helping brands discover the best niche creators on social media
-  - Another exciting project that I haven't named yet!
+  - A super exciting mobile app that I haven't thought of a name for yet. Long term vision is Runna for weightlifting.
 - 🎬 Documenting it all on **[YouTube](https://youtube.com)** & **[TikTok](https://tiktok.com/@cameronblackwoodcode)**
 
 ---
@@ -23,9 +22,9 @@ Wrote my first line of code in **2017**, never looked back!
 
 - Based in **Edinburgh, Scotland**. You'll often find me speaking at local meetups!
 - When I’m not coding:
-  - 🏉 You’ll find me playing rugby for the mighty [Edinburgh Northern RFC](https://www.enrfc.co.uk/)  
+  - 🏉 You’ll find me playing rugby for the mighty [Edinburgh Northern RFC](https://www.enrfc.co.uk/) - and yes, I do manage the website.
   - 🐈 Hanging out at home with my cat Earl Grey.
-  - 🏌️ Triple bogeying my way round 18 holes  
+  - 🏌️ Triple bogeying my way round 18 holes in sideways rain.
 
 ---
 
