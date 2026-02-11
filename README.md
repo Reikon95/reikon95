@@ -13,7 +13,7 @@ Wrote my first line of code in **2017**, never looked back!
 - 💼 **Support Engineer @ [Supabase](https://supabase.com/)** - Helping builders around the world scale to millions!
 - 🌱 Building cool side projects:
   - [**Microinfluencer**](https://microinfluencer.club/) - AI-powered Data Anlaytics platform helping brands discover the best niche creators on social media
-  - A super exciting mobile app that I haven't thought of a name for yet. Long term vision is Runna for weightlifting.
+  - Liftie. A react native app to help you with your weightlifting journey. Long term vision is Runna for weightlifting.
 - 🎬 Documenting it all on **[YouTube](https://youtube.com)** & **[TikTok](https://tiktok.com/@cameronblackwoodcode)**
 
 ---
