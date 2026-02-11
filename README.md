@@ -11,9 +11,7 @@ Wrote my first line of code in **2017**, never looked back!
 ## 👨‍💻 What I’m Doing Right Now
 
 - 💼 **Support Engineer @ [Supabase](https://supabase.com/)** - Helping builders around the world scale to millions!
-- 🌱 Building cool side projects:
-  - [**Microinfluencer**](https://microinfluencer.club/) - AI-powered Data Anlaytics platform helping brands discover the best niche creators on social media
-  - Liftie. A react native app to help you with your weightlifting journey. Long term vision is Runna for weightlifting.
+- 🌱 Building cool side projects (see below!)
 - 🎬 Documenting it all on **[YouTube](https://youtube.com)** & **[TikTok](https://tiktok.com/@cameronblackwoodcode)**
 
 ---
@@ -25,6 +23,14 @@ Wrote my first line of code in **2017**, never looked back!
   - 🏉 You’ll find me playing rugby for the mighty [Edinburgh Northern RFC](https://www.enrfc.co.uk/) - and yes, I do manage the website.
   - 🐈 Hanging out at home with my cat Earl Grey.
   - 🏌️ Triple bogeying my way round 18 holes in sideways rain.
+
+---
+## 👨‍💻 Side Project History
+
+- 🪦 StartupGradJobs (2021-2022): Job board focused on the startup market for early careers
+- 🪦 StadiaRank (2025): Directory of world stadiums with reviews
+- [**Microinfluencer**](https://microinfluencer.club/)  (2024-Present): AI powered research and analytics platform for discovering undervalued social media creators
+- Liftie (2026-Present): Mobie app to make lifting fun
 
 ---
 
