@@ -3,7 +3,7 @@
 aka Cammy or Cam
 ---
 
-I'm a **frontend-focused full stack developer** who loves building products that scale and make life easier (and more fun!) for real people.  
+I'm a full stack developer who loves building products that scale and make life easier (and more fun!) for real people.  
 Wrote my first line of code in **2017**, never looked back!
 
 ---
