@@ -1,6 +1,5 @@
 # Hey there, I'm Cameron 👋
 
-aka Cammy or Cam
 ---
 
 I'm a full stack developer who loves building products that scale and make life easier (and more fun!) for real people.  
@@ -31,6 +30,7 @@ Wrote my first line of code in **2017**, never looked back!
 - 🪦 StadiaRank (2025): Directory of world stadiums with reviews
 - [**Microinfluencer**](https://microinfluencer.club/)  (2024-Present): AI powered research and analytics platform for discovering undervalued social media creators
 - Liftie (2026-Present): Mobie app to make lifting fun
+- [**MixWasp**](https://mixwasp.com/) (2026-present): Open source Wasp/Supabase app to share your favourite DJ mixes. [**Check out the code!**](https://github.com/Reikon95/mixwasp)
 
 ---
 
@@ -38,9 +38,10 @@ Wrote my first line of code in **2017**, never looked back!
 
 If you want to reach out about anything, feel free to contact me on any of the below:
 
-- 📧 **Email:** cameronblackwood.developer@gmail.com  
-- 🐦 [**Twitter/X**](https://x.com/CamBlackwood95)
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/cameron-blackwood/)
+- **Email:** cameronblackwood.developer@gmail.com  
+- [**Twitter/X**](https://x.com/CamBlackwood95)
+- [**LinkedIn**](https://www.linkedin.com/in/cameron-blackwood/)
+- [**Website**](https://www.cameronblackwood.xyz/)
 
 
 
