@@ -2,8 +2,6 @@
 
 # Hey there, I'm Cameron
 
-### Full Stack Developer • Rugby Player • Cat Dad
-
 </div>
 
 <p align="center">
