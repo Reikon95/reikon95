@@ -24,13 +24,16 @@ Wrote my first line of code in **2017**, never looked back!
   - 🏌️ Triple bogeying my way round 18 holes in sideways rain.
 
 ---
-## 👨‍💻 Side Project History
+## 👨‍💻 Active Projects
 
-- 🪦 StartupGradJobs (2021-2022): Job board focused on the startup market for early careers
-- 🪦 StadiaRank (2025): Directory of world stadiums with reviews
-- [**Microinfluencer**](https://microinfluencer.club/)  (2024-Present): AI powered research and analytics platform for discovering undervalued social media creators
-- Liftie (2026-Present): Mobie app to make lifting fun
-- [**MixWasp**](https://mixwasp.com/) (2026-present): Open source Wasp/Supabase app to share your favourite DJ mixes. [**Check out the code!**](https://github.com/Reikon95/mixwasp)
+- [**Microinfluencer**](https://microinfluencer.club/): AI powered research and analytics platform for discovering undervalued social media creators
+- [**MixWasp**](https://mixwasp.com/): Open source Wasp/Supabase app to share your favourite DJ mixes. [**Check out the code!**](https://github.com/Reikon95/mixwasp)
+
+---
+
+## ❤️ What I Love Right Now
+
+Anything that makes me more productive and allws me to ship valuable products ASAP. Supabase (obviously), Wasp, Vercel, Expo etc.
 
 ---
 
