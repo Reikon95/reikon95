@@ -14,7 +14,7 @@
 ---
 
 I'm a full stack developer who loves building products that scale and make life easier (and more fun!) for real people.
-Wrote my first line of code in **2017**, never looked back!
+Wrote my first line of code in **2017**, never looked back! I started out focused on frontend, but have gradually moved "down the stack", and am now a database and system design specialist. 
 
 ---
 
