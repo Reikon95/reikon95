@@ -14,7 +14,7 @@
 ---
 
 I'm a full stack developer who loves building products that scale and make life easier (and more fun!) for real people.
-Wrote my first line of code in **2017**, never looked back! I started out focused on frontend, but have gradually moved "down the stack", and am now a database and system design specialist. 
+Wrote my first line of code in **2017**, never looked back! I started out focused on frontend, but have gradually moved "down the stack", and am now a database, infrastructure and system design specialist. 
 
 ---
 
@@ -47,14 +47,7 @@ Wrote my first line of code in **2017**, never looked back! I started out focuse
 
 ## What I Love Right Now
 
-Anything that makes me more productive and allows me to ship valuable products ASAP.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wasp-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-black?style=flat-square&logo=expo&logoColor=white" />
-</p>
+Anything that makes me more productive and allows me to ship valuable products ASAP. Agent first development etc.
 
 ---
 
