@@ -38,20 +38,21 @@ Wrote my first line of code in **2017**, never looked back! I started out focuse
 
 ## Active Projects
 
-| Project | Description |
+| Project | About |
 |---|---|
 | [**Microinfluencer**](https://microinfluencer.club/) | AI powered research and analytics platform for discovering undervalued social media creators |
 | [**MixWasp**](https://mixwasp.com/) | Open source Wasp/Supabase app to share your favourite DJ mixes. [**Check out the code!**](https://github.com/Reikon95/mixwasp) |
+| [**Advanced Supabase NextJS Template**](https://github.com/Reikon95/nextjs-supabase-with-ci) | Open source template for building scaleable NextJS + Supabase apps. [**Check out the code!**](https://github.com/Reikon95/nextjs-supabase-with-ci) |
 
 ---
 
 ## What I Love Right Now
 
-Anything that makes me more productive and allows me to ship valuable products ASAP. Agent first development etc.
+Anything that makes me more productive and allows me to ship valuable products ASAP. Agent first development, scaleable infrastructure, and of course solving my own problems.
 
 ---
 
-## Let's Connect
+## Chat to me
 
 If you want to reach out about anything, feel free to contact me on any of the below:
 
